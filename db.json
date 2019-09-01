@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "Id": 1,
+      "Name": "Sunrise Fishing",
+      "Price": "$85.00",
+      "Days": "SAT, MON, TUE\r\n",
+      "ATime": "9:00",
+      "DTime": "6:30",
+      "Description": "In sunrise fishing, you get a chance to experience Maldivian style fishing using a Hand fishing line. You will not be using a fishing rod. You will be cruising towards 20km area from cocoon. You will be lucky enough to catch fishes like Grouper, Barracuda and Little tuna.\r\n",
+      "Entitlement": "Water\r\n",
+      "Pax": "Minimum: 2 and Maximum: 4\r\n",
+      "Terms": "adpricepp",
+      "FolderPath": "smb://TEST-VM/e$/excursions/Sunrise/"
+    }
+  ]
+}
